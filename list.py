@@ -11,4 +11,6 @@ for i in list1:
         print("The",i,"can fly in the sky")
 
     else:
-        print(i,"is an animal")
+        print(i,"is an animal that cannot fly in the sky")
+
+        
